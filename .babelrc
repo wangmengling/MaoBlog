@@ -1,0 +1,13 @@
+{
+  "presets": [
+        "es2017",
+        "react",
+        "stage-3",
+        "env"
+    ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-react-jsx",
+    "react-hot-loader/babel"
+    ]
+}
