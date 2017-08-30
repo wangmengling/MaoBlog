@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/wangmengling/MaoBlog#readme",
   "dependencies": {
+    "bulma": "^0.5.1",
     "express": "^4.15.2",
     "koa": "^2.0.0-alpha.8",
     "koa-router": "^7.1.1",
